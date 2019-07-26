@@ -1,0 +1,12 @@
+input#email {
+  background-color: azure;
+}
+
+input#submit {
+  background-color: blue;
+}
+
+span#message {
+  
+  background-color: green;
+}

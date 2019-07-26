@@ -1,0 +1,11 @@
+{
+  "name": "sitejoao",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "Renato Macêdo",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "firebase-admin": "^8.2.0"
+  }
+}
